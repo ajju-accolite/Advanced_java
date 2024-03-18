@@ -1,0 +1,3 @@
+License ID,Jurisdiction,Resident,License Class,License Effective Date,License Expiry Date,License Status,License Line,License Line Effective Date,License Line Expiry Date,License Line Status
+73146,NV,Y,RES PRODUCER/PRODUCER FIRM,10/01/2001,02/01/2025,Y,Casualty T,04/22/2012,,Y
+73146,NV,Y,RES PRODUCER/PRODUCER FIRM,10/01/2001,02/01/2025,Y,Property T,14/12/2018,,N

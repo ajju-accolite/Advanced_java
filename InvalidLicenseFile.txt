@@ -1,0 +1,4 @@
+License ID,Jurisdiction,Resident,License Class,License Effective Date,License Expiry Date,License Status,License Line,License Line Effective Date,License Line Expiry Date,License Line Status
+85590,NV,Y,Res Motor Club Agt/Agy,04/22/2002,05/01/2014,N,Property 1,10/12/2011,,N
+85590,NV,Y,Res Motor Club Agt/Agy,04/22/2002,05/01/2014,N,Property 2,4/12/2012,,N
+85590,NV,Y,Res Motor Club Agt/Agy,04/22/2002,05/01/2014,N,Property 3,4/2/2016,,N
